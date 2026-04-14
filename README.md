@@ -47,3 +47,7 @@ I am deeply passionate about designing and developing complex, scalable, and res
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)<p align="center">
+
+---
+
+![](https://komarev.com/ghpvc/?username=jackorse)
